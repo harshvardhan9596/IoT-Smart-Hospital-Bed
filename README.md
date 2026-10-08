@@ -89,7 +89,7 @@ The web dashboard displays:
 
 ## 🔬 Project Prototype
 
-![Flowchart](Images/Flowchart.png)
+![Components](Images/Components.jpg)
 
 
 ## 📁 Project Structure
