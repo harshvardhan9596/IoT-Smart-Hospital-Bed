@@ -58,7 +58,7 @@ and displays the information on a web dashboard.
 
 ### Block Diagram
 
-![Block Diagram](Images/block-diagram.png)
+![Block Diagram](Images/blockdiagram.png)
 
 ## 🔄 Working
 
@@ -85,11 +85,12 @@ The web dashboard displays:
 
 ### Dashboard Preview
 
-![Dashboard](Images/dashboard.jpg)
+![Dashboard](Images/Dashboard.jpg)
 
 ## 🔬 Project Prototype
 
-![Project Prototype](Images/prototype.jpg)
+![Flowchart](Images/Flowchart.png)
+
 
 ## 📁 Project Structure
 
